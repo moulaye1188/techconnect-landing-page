@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/techconnect-landing/',
+  base: '/techconnect-landing-page/',
   build: {
     outDir: 'dist',
   },
