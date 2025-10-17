@@ -289,7 +289,7 @@ const PartnerLandingPage: React.FC = () => {
           
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-12">
             <a
-              href="mailto:partenaires@techconnect-cedeao.com?subject=Demande de partenariat TechConnect"
+              href="mailto:savadogo.mohamed@gmail.com?subject=Demande de partenariat TechConnect"
               className="bg-yellow-400 hover:bg-yellow-500 text-blue-900 px-8 py-4 rounded-lg text-lg font-bold transition-all transform hover:scale-105 flex items-center"
             >
               Nous contacter
@@ -327,11 +327,11 @@ const PartnerLandingPage: React.FC = () => {
           <div className="grid md:grid-cols-3 gap-6">
             <div className="flex items-center justify-center text-gray-600">
               <PhoneIcon className="h-5 w-5 mr-2" />
-              <span>+226 XX XX XX XX</span>
+              <span>+226 78 67 60 35</span>
             </div>
             <div className="flex items-center justify-center text-gray-600">
               <EnvelopeIcon className="h-5 w-5 mr-2" />
-              <span>partenaires@techconnect-cedeao.com</span>
+              <span>savadogo.mohamed@gmail.com</span>
             </div>
             <div className="flex items-center justify-center text-gray-600">
               <MapPinIcon className="h-5 w-5 mr-2" />
