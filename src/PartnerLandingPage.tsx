@@ -115,7 +115,7 @@ const PartnerLandingPage: React.FC = () => {
             </div>
             <div className="flex items-center space-x-4">
               <a
-                href="mailto:contact@techconnect-cedeao.com"
+                href="mailto:savadogo.mohamed@gmail.com"
                 className="text-gray-600 hover:text-gray-900 px-3 py-2 rounded-md text-sm font-medium"
               >
                 Contact
